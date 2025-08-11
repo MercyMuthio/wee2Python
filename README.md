@@ -8,3 +8,5 @@ here is a simple python code that
    e. Remove the last element from list.
    f. Sort my_list in ascending order.
    g. Find and print the index of a value in list. 
+
+ ENJOY✔🎉🌹
